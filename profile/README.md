@@ -11,7 +11,7 @@ In the distant future: to make story-driven AA/AAA games in the style of RDR, Th
 
 ## Builted Games
 *There is only one game :( bcz like i said, i am still learning*
-### Russian Roulette
+### [Russian Roulette](https://github.com/PiGames-art/RRoulette#)
 - CLI-BASED Game
 - Runs both on GNU/Linux and dickdows
 - It selects a random number between 0 and 10
