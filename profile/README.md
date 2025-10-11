@@ -7,7 +7,7 @@
 ## Goals
 In the near future: to create fearless, harshly criticized games, using all kinds of humor, almost as an act of rebellion with copylefted FOSS licenses.
 In the distant future: to make story-driven AA/AAA games in the style of RDR, The Witcher, Uncharted, and Mafia (except 3!), in short:
-*To make art.* `make art -j$(nproc) # HAHAHAHA SOO FUNNY`
+*To make art.* `make art -j$(nproc) # HAHAHAHA TOO FUNNY`
 
 ## Builted Games
 *There is only one game :( bcz like i said, i am still learning*
@@ -19,4 +19,5 @@ In the distant future: to make story-driven AA/AAA games in the style of RDR, Th
 - It will cause **memory leak** and will delete every file.
 
 ## About Other [PiGames](https://github.com/PiGames)
-Well, i noticed them after using this PiGames name. I think they are a dead game stuido, their last commits were years ago. And they are using Pig, i am using Pi itself. So there should not be any copyright issues.
+Well, i noticed them after using this PiGames name. I think they are a dead game studio, their last commits were years ago. And they are using Pig, i am using Pi itself. So there should not be any copyright issues.
+**I am not associated with them.**
