@@ -18,6 +18,9 @@ In the distant future: to make story-driven AA/AAA games in the style of RDR, Th
 - If you get it true, you are alive but if you dont't,
 - It will cause **memory leak** and will delete every file.
 
+## Contact
+PiGames_git@protonmail.com
+
 ## About Other [PiGames](https://github.com/PiGames)
 Well, i noticed them after using this PiGames name. I think they are a dead game studio, their last commits were years ago. And they are using Pig, i am using Pi itself. So there should not be any copyright issues.
 **I am not associated with them.**
