@@ -22,6 +22,7 @@ In the distant future: to make story-driven AA/AAA games in the style of RDR, Th
 - Games Pi License (Customised for games but basically, it is a copyleft license)
 - Videos Pi License (For every type of media content.)
 - Softwares Custom Pi License (Half-License)
+
 You can find all of them in [Pi License Collection](https://github.com/PiGames-art/Pi-License-Collection) repo.
 
 ## About Other [PiGames](https://github.com/PiGames)
