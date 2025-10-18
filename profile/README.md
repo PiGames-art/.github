@@ -29,4 +29,6 @@ You can find all of them in [Pi License Collection](https://github.com/PiGames-a
 Well, i noticed them after using this PiGames name. I think they are a dead game studio, their last commits were years ago. And they are using Pig, i am using Pi itself. So there should not be any copyright issues.
 **I am not associated with them.**
 
+---
+
 > *From Çınar Kuzey KUMANLI*
