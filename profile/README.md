@@ -1,4 +1,4 @@
-# PiGames - From Çınar Kuzey KUMANLI
+# PiGames
 [![GNU](https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
 ## Progress
@@ -28,3 +28,5 @@ You can find all of them in [Pi License Collection](https://github.com/PiGames-a
 ## About Other [PiGames](https://github.com/PiGames)
 Well, i noticed them after using this PiGames name. I think they are a dead game studio, their last commits were years ago. And they are using Pig, i am using Pi itself. So there should not be any copyright issues.
 **I am not associated with them.**
+
+> *From Çınar Kuzey KUMANLI*
