@@ -1,8 +1,8 @@
 # PiGames
-[![GNU](https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![GNU](https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
 ## Progress
-- I am just learning everything. UE5, UE5's C++, Blender, playing guitar /etc .
+- Fuck UE5. Its docs are bad af. Going to use Godot until i build my own game engine.
 
 ## Goals
 In the near future: to create fearless, harshly criticized games, using all kinds of humor, almost as an act of rebellion with copylefted FOSS licenses.
