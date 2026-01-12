@@ -17,6 +17,7 @@ In the distant future: to make story-driven AA/AAA games in the style of RDR, Th
 - It selects a random number between 0 and 10
 - If you get it true, you are alive but if you dont't,
 - It will cause **memory leak** and will delete every file.
+> **Note: DO NOT PLAY IT UNLESS YOU ARE IN A VM! THESE THINGS ARE NOT A JOKE! IT IS A REAL RUSSIAN ROULETTE FOR YOUR PC!**
 
 ## Written Licenses
 - Games Pi License (Customised for games but basically, it is a copyleft license)
